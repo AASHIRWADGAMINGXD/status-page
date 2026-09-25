@@ -1,3 +1,4 @@
+# VMS - A Virtual Monitoring System 
 A modern real-time web and server status monitoring platform with a dark glass UI, live health checks, uptime tracking, and a customizable admin dashboard.
 
 ![VMS](https://gcdnb.pbrd.co/images/1AlGxl6i3-td.png)
@@ -18,7 +19,7 @@ The project focuses on:
 - SQLite-based persistence
 - Responsive glassmorphism UI
 
-FEATURES
+✨FEATURES
 --------
 
 • Real-time web and server monitoring
