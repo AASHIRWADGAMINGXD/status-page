@@ -4,7 +4,7 @@ A modern real-time web and server status monitoring platform with a dark glass U
 ![VMS](https://gcdnb.pbrd.co/images/1AlGxl6i3-td.png)
 
 
-ABOUT
+📍ABOUT
 -----
 
 VMS is built for monitoring websites, servers, and services from one simple status dashboard.
@@ -50,7 +50,7 @@ https://imgur.com/
 Example Markdown image:
 ![VMS Dashboard](https://i.imgur.com/YOUR_IMAGE_ID.png)
 
-PROJECT
+📁 PROJECT
 -------
 
 Name: VMS
@@ -58,7 +58,7 @@ Full Name: Virtual Monitoring System
 
 Developer: AashirwadGamerzz
 
-SOCIALS
+🌐 SOCIALS
 -------
 
 YouTube:
@@ -68,9 +68,9 @@ Instagram:
 @aashirwadgamerzz
 
 Discord:
--
 
-LICENSE
+
+📜 LICENSE
 -------
 
 VMS can be used and customized according to your own brand or project.
@@ -92,7 +92,7 @@ You may customize the project for your own brand, but you may not claim the orig
 
 Do not remove or replace the original copyright ownership statement.
 
-DISCLAIMER
+⚠️ DISCLAIMER
 ----------
 
 This project is provided for monitoring and development purposes. Configure endpoints, credentials, and security settings appropriately before using it in production.
