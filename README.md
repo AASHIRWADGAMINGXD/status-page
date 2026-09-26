@@ -79,13 +79,14 @@ Developer: AashirwadGamerzz
 -------
 
 YouTube:
-@aashirwadgamerz
+[ClickHere](https://youtube.com/@aashirwadgamerz)
+
 
 Instagram:
-@aashirwadgamerzz
+[ClickHere](https://www.instagram.com/aashirwadgamerzz)
 
 Discord:
-
+[ClickHere](https://discord.gg/NRWeQxRRK)
 
 📜 LICENSE
 -------
