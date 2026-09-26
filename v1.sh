@@ -19,7 +19,7 @@ PORT="${PORT:-5000}"
 HOST="${HOST:-127.0.0.1}"
 
 # GitHub source ZIP
-DOWNLOAD_URL="https://github.com/CodeWithAashirwad/Rdp/raw/refs/heads/main/New%20Folder.zip"
+DOWNLOAD_URL="https://www.mediafire.com/file/4wqyzbms4v2iu8h/New+Folder.zip/file?dkey=7pwbqjm35ij&r=1444"
 
 RED='\033[1;31m'
 GREEN='\033[1;32m'
