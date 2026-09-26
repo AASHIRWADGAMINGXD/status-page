@@ -21,34 +21,51 @@ The project focuses on:
 
 ✨FEATURES
 --------
-
 • Real-time web and server monitoring
+
 • Automatic health checks every minute
+
+
 • Uptime percentage tracking
+
 • Latency and response-time monitoring
+
+
 • Online, offline, degraded, and maintenance states
+
 • Automatic incident detection
+
 • Recent servers and recent services sections
+
 • Admin dashboard
+
 • Service and server management
+
 • Theme customization
+
 • Custom branding
+
 • Dark glassmorphism interface
+
 • Responsive mobile and desktop design
+
+
 • Rate limiting
+
 • SQLite database
+
 • Audit logging
+
+
 • Secure admin authentication
+
 
 PREVIEW
 -------
-
-Add your project screenshots here using Imgur:
-
-https://imgur.com/
-
-Example Markdown image:
-![VMS Dashboard](https://i.imgur.com/YOUR_IMAGE_ID.png)
+![prev1](https://i.ibb.co/VWfkyVK2/IMG-6041.jpg)
+![prev2](https://i.ibb.co/CqBjGBk/IMG-6043.jpg)
+![prev3](https://i.ibb.co/v6DQgFpy/IMG-6044.jpg)
+![prev4](https://i.ibb.co/ZtxMn1h/IMG-6045.jpg)
 
 📁 PROJECT
 -------
